@@ -4,7 +4,7 @@ export default class Job extends React.Component {
   render() {
     return (
       <div>
-        Job component
+        <h2 className="title">Unknown job</h2>
       </div>
     )
   }
